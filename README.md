@@ -1,2 +1,2 @@
 # Flynava
-This is repository to learn github
+This is repository to learn the purpose of github
