@@ -1,5 +1,6 @@
 # Flynava
 This is repository to learn the purpose of github
-Hope this might help everyone
+Hope this might benefit everyone
 Thank you.... for watching the sessions
-Hope it has benefitted
+Hope everyone has benifited from it
+All the best.......
